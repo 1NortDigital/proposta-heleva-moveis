@@ -1,0 +1,15 @@
+# Backups originais (vídeos/imagens antes da compressão) — não vão pro deploy
+assets/videos/_original/
+assets/images/_original/
+
+# Bastidores dos cards de case (prints reais de clientes + scripts de geração) — NÃO publicar
+assets/images/_mockup-heleva/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
